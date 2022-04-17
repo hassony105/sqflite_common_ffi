@@ -4,7 +4,7 @@ description: sqflite ffi based implementation, for desktop and units tests.
 version: 2.1.0+2
 
 environment:
-  sdk: '>=2.16.0 <3.0.0'
+  sdk: '>=2.16.0-80.1.beta <3.0.0'
 
 dependencies:
   sqlite3: '>=1.0.0 <3.0.0'
